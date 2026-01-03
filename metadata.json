@@ -1,0 +1,7 @@
+{
+  "name": "会話アプリ：キャラクター付き",
+  "description": "A conversational app with an animated character that speaks back to you.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
